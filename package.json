@@ -1,0 +1,20 @@
+{
+  "name": "curso-scope-closure",
+  "version": "1.0.0",
+  "description": "Este repositorio se creó con base al curso “Curso Scope closure Platzi” para aprender como el Scope afecta nuestro código JavaScript y como este determina la accesibilidad de variables, objetos y funciones desde diferentes partes del código",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackWolf-117S/curso-Scope-closure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackWolf-117S/curso-Scope-closure/issues"
+  },
+  "homepage": "https://github.com/BlackWolf-117S/curso-Scope-closure#readme"
+}
